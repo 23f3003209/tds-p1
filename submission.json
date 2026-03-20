@@ -1,0 +1,7 @@
+{
+  "prompt": "A surreal, cinematic visualization of climate change as a metal pot of water on a stove, representing time from 1900 to present. The left side of the pot is calm, smooth, and reflective, with soft cool lighting, symbolizing the distant past. As the eye moves to the right, the water becomes increasingly violent, chaotic, and aggressively boiling with large distorted bubbles, steam, and splashes. The right side glows with deep red, orange, and harsh light, symbolizing extreme heat and recent decades. The stove flame is visibly stronger and more intense on the right side. The composition is asymmetrical, with a clear left-to-right transition showing acceleration. Dramatic shadows, high contrast, moody atmosphere, hyper-detailed, magazine cover style, evokes urgency and discomfort. No text, no labels, no charts, no infographic elements. no bar chart, no line chart, no graph, no infographic, no labels, no text, no globe, no thermometer, no ice melting",
+  "model": "DALL·E 3",
+  "dataset_name": "Global Temperature Data",
+  "dataset_url": "https://ourworldindata.org/global-temperature",
+  "insight": "Most of the increase in global temperatures has occurred in recent decades."
+}
